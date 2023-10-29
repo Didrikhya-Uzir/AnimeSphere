@@ -29,6 +29,7 @@ function Popular({rendered}){
             <div className="popular-anime">
                 {conditionalRender()}
             </div>
+            <Sidebar/>
         </PopularStyled>
     )
 }
