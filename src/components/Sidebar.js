@@ -29,13 +29,13 @@ function Sidebar() {
 }
 
 const SidebarStyled = styled.div`
-    margin-top: 2rem;
-    background-color: #23252b;
-    border-top: 5px solid #a0a0a0;
-    border-left: 5px solid #a0a0a0;
+    margin-top: 2.5rem;
+    background-color: #000000;
+    border-top: 5px solid #000000;
+    border-left: 5px solid #000000;
     padding-right: 5rem;
     padding-left: 2rem;
-    padding-top: 2rem;
+    padding-top: 2.5rem;
     .anime{
         display: flex;
         flex-direction: column;
