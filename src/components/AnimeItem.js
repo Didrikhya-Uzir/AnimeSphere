@@ -166,6 +166,7 @@ const AnimeItemStyled = styled.div`
             display: flex;
             flex-direction: column;
             justify-content: space-between;
+            color:white;
             p{
                 display: flex;
                 gap: 1rem;
@@ -195,7 +196,7 @@ const AnimeItemStyled = styled.div`
             }
             h4{
                 padding: .5rem 0;
-                color: #454e56;
+                color: white;
             }
             p{
                 color: #F47521;

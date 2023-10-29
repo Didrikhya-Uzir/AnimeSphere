@@ -99,6 +99,7 @@ const HomepageStyled = styled.div`
             button{
                 display: flex;
                 align-items: center;
+                color:white;
                 gap: .5rem;
                 padding: .7rem 1.5rem;
                 outline: none;

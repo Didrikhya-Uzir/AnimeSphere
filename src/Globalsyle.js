@@ -9,7 +9,6 @@ const GlobalStyle = createGlobalStyle`
         box-sizing: border-box;
         list-style: none;
         text-decoration: none;
-        color: white;
         font-family: "Lato", sans-serif;
     }
 
