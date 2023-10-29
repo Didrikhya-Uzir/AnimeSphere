@@ -75,7 +75,7 @@ function Homepage() {
 const HomepageStyled = styled.div`
     background-color: #23252b;
     header{
-        padding: 2rem 3rem;
+        padding: 2rem 5rem;
         width: 60%;
         margin: 0 auto;
         transition: all .4s ease-in-out;
